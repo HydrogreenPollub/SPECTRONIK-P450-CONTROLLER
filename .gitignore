@@ -1,0 +1,4 @@
+.metadata/
+STM32Cube/Debug/
+STM32Cube/Release/
+*.launch
